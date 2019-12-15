@@ -27,6 +27,8 @@ The two last libraries do not require to be installed independently from Python 
 - AirBnbDistrictsMap.html : a Kepler map of Berlin neighbourhoods
 - AirBnbRatingsMap.html : a Kepler map of appartment ratings in Berlin
 
+Both maps need to be downloaded, either as part of the entire repository or separately, in order to be opened.
+
 ## Summary 
 
 It appears that the neighbourhood in which an appartment is located has a strong influence on its price, but not so much on the rating it receives.
