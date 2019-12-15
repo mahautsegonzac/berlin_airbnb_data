@@ -23,7 +23,7 @@ The two last libraries do not require to be installed independently from Python 
 
 ## Files in Repository
 
-- NOTEBOOKNAME.ipynb : this Jupyter Notebook contains the code used to prepare and analyse the data. 
+- berlin_airbnb_data_analysis.ipynb : this Jupyter Notebook contains the code used to prepare and analyse the data. 
 - AirBnbDistrictsMap.html : a Kepler map of Berlin neighbourhoods
 - AirBnbRatingsMap.html : a Kepler map of appartment ratings in Berlin
 
