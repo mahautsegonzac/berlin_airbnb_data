@@ -35,6 +35,10 @@ It appears that the neighbourhood in which an appartment is located has a strong
 
 The strongest drivers of a good rating are the seniority of the host on airbnb, and the price of the appartment.
 
+## Detailed Analysis
+
+A blog post stating the major findings of the analysis can be found [here](https://medium.com/@mahaut.segonzac_87677/are-you-a-good-airbnb-host-2697508d8cc5).
+
 ## Acknowledgements
 
 I would like to thank my Udacity mentor who helped me find the right angle to approach this dataset.
